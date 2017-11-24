@@ -1,6 +1,17 @@
 # PZ_Challenge_Web
 Programming Challenge for Web Developers
 
+## Pre-Requisitos
+- Ter o Nodejs instalado
+- Ter o npm instalado
+- Ter um browser instalado
+
+## Configurações
+1. Clone o projeto com o comando ```git clone git@github.com:LucasdeCastro/PZ_Challenge_Web.git```
+2. Entre na pasta e execute o comando ```npm install```
+3. Inicie o "server" com o comando ```node server.js```
+4. Por fim, abra o browser e acesse a url http://localhost:8080/
+
 # Photozig - Desafio de programação Web
 
 ## Instruções de entrega do desafio
