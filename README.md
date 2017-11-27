@@ -12,6 +12,9 @@ Programming Challenge for Web Developers
 3. Inicie o "server" com o comando ```node server.js```
 4. Por fim, abra o browser e acesse a url http://localhost:8080/
 
+## Observações
+1. Existe uma opcão de configuracão do player chamada de ```canvasPlayer``` quando ```true``` a renderização do video será feita utilizando canvas, por default é ```false```.
+
 # Photozig - Desafio de programação Web
 
 ## Instruções de entrega do desafio
